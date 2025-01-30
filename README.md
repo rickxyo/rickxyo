@@ -15,7 +15,7 @@ Sou um entusiasta de tecnologia e programação, atualmente estudando e buscando
 - [LinkedIn](https://www.linkedin.com/in/pedro-henrique-oldoni-1b55b2261/)
 - Email: [pedroholdoni@outlook.com]
 
-👨‍💻 Estou sempre aberto a colaborações e ideias. Explore meus repositórios e sinta-se à vontade para entrar em contato! 🚀
+👨‍💻 Estou sempre aberto a colaborações e ideias. Explore meus repositórios e sinta-se à vontade para entrar em contato! 
 
 ⚠️ **Nota:** Este README está em constante construção! Fique à vontade para revisitar e acompanhar as atualizações. 🚀
 

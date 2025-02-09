@@ -3,7 +3,7 @@
 ## 👨‍🎓 About Me
 I'm a Software Engineering student and a technology enthusiast, always eager to learn and expand my knowledge. 
 
-💡 **Principais interesses**:
+💡 **What I’m interested in**:
 - Writing clean, efficient code and following best practices in software development.
 - Always learning new things and working on cool, innovative projects.
 

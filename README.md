@@ -1,4 +1,8 @@
+<div align="center">
+
 # Hi! I'm Pedro Henrique Oldoni!
+
+</div>
 
 ## 👨‍🎓 About Me
 I'm a Software Engineering student and a technology enthusiast, always eager to learn and expand my knowledge. 
@@ -18,4 +22,6 @@ I'm a Software Engineering student and a technology enthusiast, always eager to 
 👨‍💻  I'm always open to collaborations and new ideas. Feel free to explore my repositories and reach out!
 
 ⚠️ **Note:** This README is a work in progress! Stay tuned for updates. 🚀
+
+
 

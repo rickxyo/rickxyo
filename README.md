@@ -1,21 +1,21 @@
 # Hi! I'm Pedro Henrique Oldoni!
 
-## 👨‍🎓 Sobre mim
-Sou estudante de Engenharia de Software e um entusiasta de tecnologia no geral, atualmente estudando e buscando constantemente expandir meu conhecimento. 
+## 👨‍🎓 About Me
+I'm a Software Engineering student and a technology enthusiast, always eager to learn and expand my knowledge. 
 
 💡 **Principais interesses**:
-- Desenvolvimento de software com foco em boas práticas.
-- Aprendizado contínuo e colaboração em projetos inovadores.
+- Writing clean, efficient code and following best practices in software development.
+- Always learning new things and working on cool, innovative projects.
 
-## 🛠️ Habilidades e Ferramentas
-- **Linguagens:** Java (em aprendizado), JavaScript, HTML5, CSS3 e fundamentos de programação.
-- **Ferramentas:** VS Code, Intellij e Git/GitHub.
+## 🛠️ Skills & Tools
+- **Languages:** Java (currently learning), JavaScript, HTML5, CSS3, and programming fundamentals.
+- **Tools:** VS Code, IntelliJ, and Git/GitHub
 
-📫 **Como me encontrar**:
+📫 **How to reach me:**
 - [LinkedIn](https://www.linkedin.com/in/pedro-henrique-oldoni-1b55b2261/)
 - pedroholdoni@outlook.com
 
-👨‍💻 Estou sempre aberto a colaborações e ideias. Explore meus repositórios e sinta-se à vontade para entrar em contato! 
+👨‍💻  I'm always open to collaborations and new ideas. Feel free to explore my repositories and reach out!
 
-⚠️ **Nota:** Este README está em constante construção! Fique à vontade para revisitar e acompanhar as atualizações. 🚀
+⚠️ **Note:** This README is a work in progress! Stay tuned for updates. 🚀
 

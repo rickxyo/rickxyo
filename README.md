@@ -26,7 +26,8 @@ Software Engineering student from Brazil. I work in tech support at a fintech wh
 - Python & Django for backend development
 - System Design & Software Architecture
 
+<div align="center">
 Building things. Figuring it out.
-
+</div>
 
 

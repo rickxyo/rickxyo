@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi! I'm Pedro H. Oldoni!
+# hey, I'm Pedro.
 
 </div>
 

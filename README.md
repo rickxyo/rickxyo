@@ -6,7 +6,7 @@
 
 ## About
 
-Software Engineering student from Brazil. I got into tech through curiosity and stayed because of the building.
+Software Engineering student from Brazil. Curious about how systems work and how products are built.
 
 ## Tech Stack
 
@@ -26,5 +26,5 @@ Software Engineering student from Brazil. I got into tech through curiosity and 
 ## Currently
 
 - Deepening Python knowledge through real projects
-- Learning Django — from ORM to REST APIs
+- Learning Django and FastAPI, from ORM to REST APIs
 - Exploring how production systems are built and maintained

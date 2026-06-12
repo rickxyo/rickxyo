@@ -1,6 +1,5 @@
 ## Hi, I'm Pedro 👋
 
-### About
 Software Engineering student from Brazil. Interested in how systems work and how real products are made.
 
 ### Tech Stack

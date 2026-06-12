@@ -6,7 +6,7 @@
 
 ## About
 
-Software Engineering student from Brazil. Curious about how systems work and how products are built.
+Software Engineering student from Brazil. Interested in how systems work and how real products are made.
 
 ## Tech Stack
 
@@ -20,11 +20,9 @@ Software Engineering student from Brazil. Curious about how systems work and how
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ## Currently
 
-- Deepening Python knowledge through real projects
-- Learning Django and FastAPI, from ORM to REST APIs
-- Exploring how production systems are built and maintained
+- Focused on software development, from APIs to interfaces
+- @opedrooldoni

@@ -1,15 +1,9 @@
-<div align="center">
+## Hi, I'm Pedro 👋
 
-# hey, I'm Pedro.
-
-</div>
-
-## About
-
+### About
 Software Engineering student from Brazil. Interested in how systems work and how real products are made.
 
-## Tech Stack
-
+### Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
@@ -19,12 +13,12 @@ Software Engineering student from Brazil. Interested in how systems work and how
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-## Currently
-
+### Currently
 - Focused on software development, from APIs to interfaces
 - Backend to frontend, Python, TypeScript, and whatever the project needs
 - @opedrooldoni
+
+
